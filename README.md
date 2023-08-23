@@ -1,5 +1,5 @@
 # Cara Penginstalan:
 
-• $yarn
-• $npm start
-• Tinggal Scan, Udah 👍
+# $yarn
+# $npm start
+# Tinggal Scan, Udah 👍
