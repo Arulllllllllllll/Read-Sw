@@ -1,0 +1,34 @@
+{
+  "name": "Arulbot-Md",
+  "version": "1.0.0",
+  "description": "whatsapp bot multi device.",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "2022",
+    "baileys-md"
+  ],
+  "author": "Arul09",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys" : "^6.2.1",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "moment-timezone": "^0.5.34",
+    "util": "^0.12.4",
+    "chalk": "^4.1.2",
+    "express": "^4.17.3",
+    "file-type": "^16.5.3",
+    "figlet": "^1.5.2",
+    "fs": "0.0.1-security",
+    "pino": "^8.3.0",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
